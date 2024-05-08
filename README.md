@@ -1,5 +1,3 @@
-# Online Doctor Appointment Booking App
-
 ## Project Overview
 
 This project aims to streamline the management of email subscribers and facilitate personalized email campaigns. Leveraging cutting-edge technologies such as Next.js 14, TypeScript, AWS SES (Simple Email Service), AstraDB, and Stripe
